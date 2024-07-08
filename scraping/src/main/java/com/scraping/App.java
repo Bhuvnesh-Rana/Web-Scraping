@@ -9,6 +9,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        //Search jsoup.
         String url = "https://books.toscrape.com/";
         System.out.println("*********************************************");
         System.out.println(":WEB SCRAPING:");
